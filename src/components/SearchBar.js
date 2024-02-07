@@ -43,7 +43,6 @@ const SearchBar = () => {
         return 'https://cdn4.iconfinder.com/data/icons/weatherful/72/Sunny-512.png';
     }
   };
-
   return (
     <div className="container">
       <div className="input-container">
